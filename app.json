@@ -13,16 +13,16 @@
   "website": "https://github.com/TerminalWarlord/TikTok-Downloader-Bot",
   "env": {
     "BOT_TOKEN": {
-      "description": "Your bot Bot Token, get this value from @BotFather.",
-      "value": ""
+      "description": "6513985613:AAG1qH21qfg4IWSh9_3ZpOUbna8YkBOaPx4"",
+      "value": "6513985613:AAG1qH21qfg4IWSh9_3ZpOUbna8YkBOaPx4"
     },
     "API_KEY": {
       "description": "Your APP API KEY, get this from https://my.telegram.org",
-      "value": ""
+      "value": "19359157"
     },
     "API_HASH": {
       "description": "Your APP HASH, get this from https://my.telegram.org",
-     "value": ""
+     "value": "72ad00f84cdba4f12ab49fbdbc72ba2e"
     },
     "CHANNEL_URL": {
       "description": "URL of your Telegram channel link.",
@@ -30,7 +30,7 @@
     },
     "BOT_URL": {
       "description": "Username of your Telegram Bot (without @). Example: JayBeeTikTokBot",
-      "value": ""
+      "value": "@anggazyyprivatebot"
     },
     "WORKERS": {
       "description": "Number of threads to use, this depends on usage.  4 is the recommended (and default) amount, but your experience may vary.",
