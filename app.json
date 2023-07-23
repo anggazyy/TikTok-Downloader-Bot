@@ -13,7 +13,7 @@
   "website": "https://github.com/TerminalWarlord/TikTok-Downloader-Bot",
   "env": {
     "BOT_TOKEN": {
-      "description": "6513985613:AAG1qH21qfg4IWSh9_3ZpOUbna8YkBOaPx4"",
+      "description": "6513985613:AAG1qH21qfg4IWSh9_3ZpOUbna8YkBOaPx4",
       "value": "6513985613:AAG1qH21qfg4IWSh9_3ZpOUbna8YkBOaPx4"
     },
     "API_KEY": {
